@@ -1,0 +1,29 @@
+/*
+family=Bitter:wght@100&family=Merienda&family=Oleo+Script&family=Poppins:wght@100;600&family=Unna&display=swap"
+ */
+
+ @import url('https://fonts.googleapis.com/css2?family=Bitter:wght@100&family=Merienda&family=Oleo+Script&family=Poppins:wght@100;600&family=Unna&display=swap');
+
+
+h1{
+   font-family: unna;
+}
+h2{
+    font-family: oleo;
+}
+h3{
+    font-family: merienda;
+}
+.lista{
+    width: 200px;
+    height: 120px;
+    background-color: aquamarine;
+    font-family:merienda ;
+    font-size:14px;
+    background: rgb(211,223,163);
+background: linear-gradient(90deg, rgba(211,223,163,1) 2%, rgba(183,218,202,1) 100%);
+border-radius: 30px 0;
+filter: sepia(2%) brightness(108%) hue-rotate(19deg);
+-webkit-filter: sepia(2%) brightness(108%) hue-rotate(19deg);
+-moz-filter: sepia(2%) brightness(108%) hue-rotate(19deg);
+}
